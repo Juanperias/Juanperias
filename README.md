@@ -33,4 +33,4 @@ I'm Juanperias a developer specialized in backend development although I'm also 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanperias&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanperias&layout=compact&theme=github_dark)
