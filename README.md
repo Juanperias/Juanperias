@@ -34,3 +34,5 @@ I'm Juanperias a developer specialized in backend development although I'm also 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanperias&layout=compact&theme=github_dark)
+
+![makima_meme](https://raw.githubusercontent.com/Juanperias/Juanperias/main/24c9a11ecba3d7b67a1fb345249337ca.png)
