@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <h1>Hello, I'm Juanperias</h1>
 
-I'm Juanperias a developer specialized in backend development although I'm also learning frontend to become a fullstack, I swear I revive this github
+A low level dev, sometimes backend
 
 <h1>
  Langs
