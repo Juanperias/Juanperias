@@ -1,8 +1,6 @@
 <div style="text-align: center;">
-<h1>Hello, I'm Juanperias</h1>
-
-A low level dev, sometimes backend
-
+<div align="center"><h1>Hello, I'm Juanperias 👋</h1></div>
+I'm juanperias a backend developer who really likes to program at low level and make programs with rust.
 <h1>
  Langs
 </h1>
@@ -11,10 +9,12 @@ A low level dev, sometimes backend
 
 
 ![python](https://img.shields.io/badge/Python-4584B6?style=for-the-badge&logo=python&logoColor=ffde57)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+
 
 
 <div style="text-align:center">
